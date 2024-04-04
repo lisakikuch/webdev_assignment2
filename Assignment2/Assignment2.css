@@ -1,0 +1,98 @@
+/* Used Google fonts */
+.col-12 h1{
+    font-family: "Licorice", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+* {
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.col-12 h1,
+p,
+.row p {
+    color: black;
+}
+
+.bg-black {
+    background-color: black !important;
+}
+
+/* Change the font size according to the device's screen size */
+/* Smalle devices */
+@media (min-width: 576px) { /* Small devices (landscape phones, 576px and up) */
+    .col-12 h1 { font-size: 2rem; }
+    .col-12 p, footer p, footer h5, footer a, footer li { font-size: 0.7rem;}
+    .row h2 { font-size: 1.125rem; }
+}
+/* Medium devices */
+@media (min-width: 768px) { 
+    .col-12 h1 { font-size: 2.5rem; }
+    .col-12 p, footer p, footer h5, footer a, footer li { font-size: 1rem;}
+    .row h2 { font-size: 1.5rem; }
+}
+/* Large devices */
+@media (min-width: 992px) { /* Large devices (desktops, 992px and up) */
+    .col-12 h1 { font-size: 4rem; }
+    .col-12 p, footer p, footer h5, footer a, footer li { font-size: 1rem ;}
+    .row h2 { font-size: 2rem; }
+}
+
+/* Change the size of images according to the screen size */
+/* Small devices */
+@media (min-width: 576px) {
+    .content-image {
+      height: 250px;
+    }
+  }
+  /* Medium devices */
+  @media (min-width: 768px) {
+    .content-image {
+      height: 300px;
+    }
+  }
+  /* Large devices */
+  @media (min-width: 992px) {
+    .content-image {
+      height: 350px;
+    }
+  }
+
+.background-container {
+    background-image: url('top.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 40px);
+    box-sizing: border-box; /
+}
+
+/* Change the colour of nav bar links to white */
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+/* Change the color on hover */
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #CCCCCC !important;
+}
+
+/* Change the colour of the footer background to black and texts to white */
+footer {
+    background-color: black !important;
+    color: white !important;
+}
+
+/* change the colour of texts to white */
+footer p, footer h5, footer a, footer li  {
+    color: white !important; 
+    text-decoration: none;
+}
+
+/* The hover color for links */
+footer a:hover {
+    color: #CCCCCC !important; /* Example: a light gray color on hover */
+}
