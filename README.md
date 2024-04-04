@@ -17,5 +17,5 @@ To ensure the design consistency,
 - All contents except the nav bar and footer are aligned at the same level.
 - Used only the picked three colors.
 - Used the same typography.
-- 
+  
 Additionally, make sure to add the semantic tags correctly to each section.
