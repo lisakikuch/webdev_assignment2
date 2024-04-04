@@ -17,6 +17,6 @@ To ensure the design consistency,
 - Used Bootstrap to ensure that all contents except the nav bar and footer are aligned at the same level.
 - Used only the picked three colors.
 - Used the same typography.
-- Used media queries to ensure all images ant texts displayed properly according to the screen size.
+- Used media queries to ensure all images and texts displayed properly according to the screen size.
   
 Additionally, make sure to add the semantic tags correctly to each section.
