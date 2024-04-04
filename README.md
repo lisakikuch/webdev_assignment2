@@ -14,8 +14,9 @@ To make the photos visually appealing and match the theme of this website,
 - Chose monotonous colors, such as black, grey, and white, to make the images and video stand out.
 
 To ensure the design consistency,
-- All contents except the nav bar and footer are aligned at the same level.
+- Used Bootstrap to ensure that all contents except the nav bar and footer are aligned at the same level.
 - Used only the picked three colors.
 - Used the same typography.
+- Used media queries to ensure all images ant texts displayed properly according to the screen size.
   
 Additionally, make sure to add the semantic tags correctly to each section.
