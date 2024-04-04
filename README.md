@@ -4,7 +4,7 @@ Student name: Lisa Kikuchi Student no.: n01675386
 
 Project name: Mãi mãi
 
-Given that, I made a landing page for a lipstick company called Mãi mãi. This website aims to make it appealing and give a positive image about the company and its products to encourage purchase.
+Given that, I made a landing page for a lipstick brand called Mãi mãi. This website aims to make it appealing and give a positive image about the company and its products to encourage purchase.
 The main target of this website is women in their 20s to 40s who are looking for luxurious cosmetics.
 
 Description: The website has a navigation bar, a hero section, company and product sections, a video section, and a footer with contact information and related links.
