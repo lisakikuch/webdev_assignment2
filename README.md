@@ -19,4 +19,4 @@ To ensure the design consistency,
 - Used the same typography.
 - Used media queries to ensure all images and texts displayed properly according to the screen size.
   
-Additionally, make sure to add the semantic tags correctly to each section.
+Additionally, I made sure to add the semantic tags correctly to each section.
