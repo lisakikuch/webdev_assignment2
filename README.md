@@ -11,7 +11,7 @@ Description: The website has a navigation bar, a hero section, company and produ
 
 To make the photos visually appealing and match the theme of this website,
 - Chose simple but luxurious photos of lipsticks and models.
-- Chose monotonous colors, such as black, grey, and white, to make the images and video stand out.
+- Chose monotonous colors, such as black, grey, and white, for texts and other elements to make the images and video stand out.
 
 To ensure the design consistency,
 - Used Bootstrap to ensure that all contents except the nav bar and footer are aligned at the same level.
